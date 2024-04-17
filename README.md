@@ -1,3 +1,5 @@
 # classproject
 
-Some brief demonstration of git
+Some brief demonstration of git.
+
+Adding some more content.
